@@ -1,3 +1,5 @@
+# The counter needs to count UP TO 5 from 1 and then reset
+
 count = 5
 while (count >= 0):
 	print(count)
