@@ -20,3 +20,12 @@
 
 #Let's try and do better than the above.
 
+count = 1
+while count <= 5:
+    print(count)
+    count = count+1
+while count >= 5:
+    count = count-5
+    print(count)
+#for count in range(count)
+#JUST LOOK AT THE WILL FISET VIDEOS IN LESSONS 5 AND I AM SURE I'LL LEARN TO LOOP THIS!
