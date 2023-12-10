@@ -1,4 +1,4 @@
-# introduction to standard types
+# introduction to standard variable types
 # ints, floats, doubles, and strings
 #this is a string
 string = "Hello World"
