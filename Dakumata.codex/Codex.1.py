@@ -1,6 +1,6 @@
 names = []
 with open ('names.txt','r') as file:
-    for line in file: #for some reason is doesnt find the file in the directory
+    for line in file: #for some reason it doesnt find the file in the directory
         line = line.strip()
         names.append(line)
 
