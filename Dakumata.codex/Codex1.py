@@ -4,7 +4,7 @@ with open ('d:/A_workspace/Mypython/Dakumata.codex/names.txt','r') as file:
         line = line.strip()
         names.append(line)
 
-# print(names[0]) # This here shows Kuro as index 0 from the txt file
+# print(names[0]) # This here shows Kuro is index 0 from the txt file
 name_requested = input("Please enter your codename: ")
 
 for name in names:
